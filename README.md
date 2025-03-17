@@ -1,4 +1,3 @@
-```markdown
 # Mood Tracker  
 
 **Es una app para saber el estado de ánimo de Ari.**  
@@ -7,4 +6,3 @@
 - React  
 - Framer Motion  
 - Tailwind CSS  
-```
